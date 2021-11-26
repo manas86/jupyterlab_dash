@@ -37,4 +37,5 @@ def update_figure(colorscale):
 # Run app and display result inline in the notebook
 # app.run_server(mode='inline', , host='0.0.0.0', port='8050', dev_tools_ui=True, threaded=True )
 # app.run_server(mode='jupyterlab', host='0.0.0.0', port='8050', dev_tools_ui=True, threaded=True)
-app.run_server(mode='external',host='0.0.0.0', port='8050', dev_tools_ui=True, threaded=True)
+# app.run_server(mode='external',host='0.0.0.0', port='8050', dev_tools_ui=True, threaded=True)
+app.run_server(mode='external',host='0.0.0.0', port='8050', dev_tools_ui=True)
