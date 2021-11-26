@@ -29,7 +29,7 @@ The container will install requirements from files present at the root of the re
 * `extensions.txt`: install Jupyterlab extensions
 
 After installtion access the jupyterlab using url displayed on stdoutput.
-Then to test `dash` application, copy/paste the script in the editor. this will show the dash is running on http://0.0.0.0.8050 
+Then to test `dash` application, copy/paste the `dash.py` script in the editor. this will show the dash is running on http://0.0.0.0.8050 
 
 ### Build from source
 
